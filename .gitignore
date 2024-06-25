@@ -24,3 +24,5 @@ runClient.launch
 runServer.launch
 
 .settings/
+
+.github
